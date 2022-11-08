@@ -1,5 +1,5 @@
 # Automatic Generated Time
-2022-11-07 20:37:47.121832+00:00
+2022-11-08 20:38:08.514343+00:00
 
 # Note
 Microsoft links have an expiration date, so the URL for this project may not actually be available for download
@@ -45,12 +45,12 @@ Microsoft links have an expiration date, so the URL for this project may not act
 **url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/38efeba6-79b7-4fac-977b-b825a723a409?P1=1668199113&P2=404&P3=2&P4=XB4OieOeIIwR1%2bPPBG0NM5KoSkh3FPFLGJHWpU7YY8MNy73mwu2ZGF7I8MyYsm5XjTxGyezUjYMBM%2fE%2fS3lwag%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/38efeba6-79b7-4fac-977b-b825a723a409?P1=1668199113&P2=404&P3=2&P4=XB4OieOeIIwR1%2bPPBG0NM5KoSkh3FPFLGJHWpU7YY8MNy73mwu2ZGF7I8MyYsm5XjTxGyezUjYMBM%2fE%2fS3lwag%3d%3d)  
 
 ## dev x64
-**version**:108.0.1462.10  
-**size**:130.03 MB  
-**sha1**:bdaf0513760c01ca0568743dde6287d9656ba745  
-**sha256**:c8a6b2c8d48c54d7d3afffd59a6985aa95a3985232dca11af51f35f84c8d9631  
-**file**:MicrosoftEdge_X64_108.0.1462.10.exe  
-**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f10df9a0-0fd4-42e2-9bec-df4631c7c07b?P1=1668199114&P2=404&P3=2&P4=lJiDCPN8%2fQ15x30LNxpfoeC2gb2rNZFrL7sw035a1bmqJlxY2TSkPGKQd8N3A9Pgk5v53%2bVETdhxyUjJYuRBsA%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f10df9a0-0fd4-42e2-9bec-df4631c7c07b?P1=1668199114&P2=404&P3=2&P4=lJiDCPN8%2fQ15x30LNxpfoeC2gb2rNZFrL7sw035a1bmqJlxY2TSkPGKQd8N3A9Pgk5v53%2bVETdhxyUjJYuRBsA%3d%3d)  
+**version**:109.0.1481.0  
+**size**:132.49 MB  
+**sha1**:92e02eb28c9ce57f9836b723929afe01b28985e9  
+**sha256**:be476aa6ae7a910062065bc4e62b63ee2285b5a0d948e172e9fb2494a7b04cf5  
+**file**:MicrosoftEdge_X64_109.0.1481.0.exe  
+**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a42c9ea-f03b-4e12-96e2-6ca9573e7a5b?P1=1668544687&P2=404&P3=2&P4=DmHuIpLAMNaon2KeTodCjL5sCKuLzxv2M2wnR1WdyW3KKYDlHsH7zCklP6PoSBjoKHU5AtXAMn3WefAQ28kBSg%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a42c9ea-f03b-4e12-96e2-6ca9573e7a5b?P1=1668544687&P2=404&P3=2&P4=DmHuIpLAMNaon2KeTodCjL5sCKuLzxv2M2wnR1WdyW3KKYDlHsH7zCklP6PoSBjoKHU5AtXAMn3WefAQ28kBSg%3d%3d)  
 
 ## canary x86
 **version**:109.0.1485.0  
