@@ -1,24 +1,24 @@
 # Automatic Generated Time
-2022-12-16 20:00:36.302104+00:00
+2022-12-17 20:00:41.676086+00:00
 
 # Note
 Microsoft links have an expiration date, so the URL for this project may not actually be available for download
 
 ## stable x86
-**version**:108.0.1462.46  
-**size**:120.66 MB  
-**sha1**:82d80fe3a1460cdbe982cdf8df283dd1f7acce7a  
-**sha256**:6d16e26b49bf7d38c11e8928863ae4aae452b23049a4c2be94c319f1f6276ded  
-**file**:MicrosoftEdge_X86_108.0.1462.46.exe  
-**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb3c2747-93bd-4de7-ac90-5e7d81fedcf9?P1=1671307244&P2=404&P3=2&P4=WX9%2fbnF0Au1%2f1z8eEPMQ48QfEDupabHGqrr2dzH79p%2bPQ6y9hpsX2zmBVOI34ubGwL2L07DRNLo2lDcgq09lSA%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb3c2747-93bd-4de7-ac90-5e7d81fedcf9?P1=1671307244&P2=404&P3=2&P4=WX9%2fbnF0Au1%2f1z8eEPMQ48QfEDupabHGqrr2dzH79p%2bPQ6y9hpsX2zmBVOI34ubGwL2L07DRNLo2lDcgq09lSA%3d%3d)  
+**version**:108.0.1462.54  
+**size**:120.88 MB  
+**sha1**:08032431eb1448098dc3a73eb66824151d6efb5f  
+**sha256**:43932698e7c8154b1a77ee956fda1bef75a616a4aa54b5441430e30bc7945e25  
+**file**:MicrosoftEdge_X86_108.0.1462.54.exe  
+**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/456aa0e1-017a-49ce-98b1-94eb04d7ae7b?P1=1671912040&P2=404&P3=2&P4=hj3Yoqf4yYdlx%2fEg2lMtpC49H7AfKTjAjW%2bEWLCUAXLU0%2bWtz2r%2fGdUJiUnokvkTWn68FN0pnmBTsukPX197CA%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/456aa0e1-017a-49ce-98b1-94eb04d7ae7b?P1=1671912040&P2=404&P3=2&P4=hj3Yoqf4yYdlx%2fEg2lMtpC49H7AfKTjAjW%2bEWLCUAXLU0%2bWtz2r%2fGdUJiUnokvkTWn68FN0pnmBTsukPX197CA%3d%3d)  
 
 ## stable x64
-**version**:108.0.1462.46  
-**size**:131.86 MB  
-**sha1**:2b3306afcc076c435ca5108a052682ad50ac16fd  
-**sha256**:ec103ea13ec14f94e90f9574539c43256301254b7fbcab51cd7acbe521287379  
-**file**:MicrosoftEdge_X64_108.0.1462.46.exe  
-**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8f23f4f-6ed4-4f18-8073-463bfbd36456?P1=1671307245&P2=404&P3=2&P4=EXMPZVZcvVoEhkIxCnLGBviTN6N8CP690rjPO9vkq424EFjE2wXfk30NR5dXJSOXEOR09YJ7WYcMix02pYfwiw%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8f23f4f-6ed4-4f18-8073-463bfbd36456?P1=1671307245&P2=404&P3=2&P4=EXMPZVZcvVoEhkIxCnLGBviTN6N8CP690rjPO9vkq424EFjE2wXfk30NR5dXJSOXEOR09YJ7WYcMix02pYfwiw%3d%3d)  
+**version**:108.0.1462.54  
+**size**:131.99 MB  
+**sha1**:03edd9a394e07c7c02163494cb3f432c89ffe27e  
+**sha256**:dbd57d23e3835ad74692e66a8f556499e7f72caee67d67bbf0a315f1eb5cdca0  
+**file**:MicrosoftEdge_X64_108.0.1462.54.exe  
+**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/146d3540-714b-4413-90e1-1420d01884e4?P1=1671912040&P2=404&P3=2&P4=nr47%2bv6XYa2%2fTsQWpyg0hPIVDu3sl8tOHmlwHKoP%2f5HiSHj8xbbSF1XQhkxhhkolFJjOkWUEzZm8j4LeK9fM6g%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/146d3540-714b-4413-90e1-1420d01884e4?P1=1671912040&P2=404&P3=2&P4=nr47%2bv6XYa2%2fTsQWpyg0hPIVDu3sl8tOHmlwHKoP%2f5HiSHj8xbbSF1XQhkxhhkolFJjOkWUEzZm8j4LeK9fM6g%3d%3d)  
 
 ## beta x86
 **version**:109.0.1518.23  
@@ -53,18 +53,18 @@ Microsoft links have an expiration date, so the URL for this project may not act
 **url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f8f875b-dbe7-4632-b0dc-e01bbd3e2e85?P1=1671652849&P2=404&P3=2&P4=NtJryeaR2ehaysFeKvU6Rd7tz8BTt6JQBHwsuJZX%2bQu5N3SQpLGHFd%2fg1Dji%2bzkXWXXQ6VCy1ibaCKSAOHnAOA%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f8f875b-dbe7-4632-b0dc-e01bbd3e2e85?P1=1671652849&P2=404&P3=2&P4=NtJryeaR2ehaysFeKvU6Rd7tz8BTt6JQBHwsuJZX%2bQu5N3SQpLGHFd%2fg1Dji%2bzkXWXXQ6VCy1ibaCKSAOHnAOA%3d%3d)  
 
 ## canary x86
-**version**:110.0.1564.0  
+**version**:110.0.1565.0  
 **size**:122.56 MB  
-**sha1**:f71771fbd28efdabc9108212a55387b22d7b52a8  
-**sha256**:2d882677da7e153bf38e4c358ec789a7b5593c6e7727af110c0d057757fcd739  
-**file**:MicrosoftEdge_X86_110.0.1564.0.exe  
-**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c7ca1c2-2e92-4f06-857c-c2f96a73a9db?P1=1671825635&P2=404&P3=2&P4=iEWfZkngIuWhVA44W13d6W5PTp17jlrwykY7O22M9BceKtw%2bJJKPxiKAplj6X9%2fH67X9lRfgr7Ni5xRb4dg2Bw%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c7ca1c2-2e92-4f06-857c-c2f96a73a9db?P1=1671825635&P2=404&P3=2&P4=iEWfZkngIuWhVA44W13d6W5PTp17jlrwykY7O22M9BceKtw%2bJJKPxiKAplj6X9%2fH67X9lRfgr7Ni5xRb4dg2Bw%3d%3d)  
+**sha1**:296078f7c535d119a5446451b7b70526bb05f103  
+**sha256**:fdc96fbc0fa723a59a70625530e8e6765812441bb518174bc1bcf1f9d9794eec  
+**file**:MicrosoftEdge_X86_110.0.1565.0.exe  
+**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/72acbb9a-59e7-49e3-89cb-4351ecc3660f?P1=1671912041&P2=404&P3=2&P4=A%2b4dheslYM4MUfyaDmhKFWSimjN3B071f1uDmvnuJ653khBDQWcw6Lwop2xuC%2bKq12BO3NMKQkmmJe5ip6d%2fcA%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/72acbb9a-59e7-49e3-89cb-4351ecc3660f?P1=1671912041&P2=404&P3=2&P4=A%2b4dheslYM4MUfyaDmhKFWSimjN3B071f1uDmvnuJ653khBDQWcw6Lwop2xuC%2bKq12BO3NMKQkmmJe5ip6d%2fcA%3d%3d)  
 
 ## canary x64
-**version**:110.0.1564.0  
-**size**:134.76 MB  
-**sha1**:d87a0647e3d25cc9cf79e4a2fac9553c7b7c8aa1  
-**sha256**:f85527a3ef79b390e0a5952ed194fd3cb58f04499372f23083dd929042862d60  
-**file**:MicrosoftEdge_X64_110.0.1564.0.exe  
-**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/292e96c6-32cf-48db-a172-3154b436fb4a?P1=1671825636&P2=404&P3=2&P4=cRnXr3sKmm89xr1WvLyyNTY8QWtXo4LQ7e7Q0N%2bMBsQ0Jm%2fSYaLD0kG7NpexAlaRNM5yxuiqEOSXjmhinq9rUA%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/292e96c6-32cf-48db-a172-3154b436fb4a?P1=1671825636&P2=404&P3=2&P4=cRnXr3sKmm89xr1WvLyyNTY8QWtXo4LQ7e7Q0N%2bMBsQ0Jm%2fSYaLD0kG7NpexAlaRNM5yxuiqEOSXjmhinq9rUA%3d%3d)  
+**version**:110.0.1565.0  
+**size**:134.95 MB  
+**sha1**:c4a4fde934af8761f9cd07493eb0fe57987dc892  
+**sha256**:53a01b358998f378ed419e275fdace638cbb40e43ec9c228e690d4fb807eab1b  
+**file**:MicrosoftEdge_X64_110.0.1565.0.exe  
+**url**:[http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/077c14db-0119-4627-97aa-cdc1c657db41?P1=1671912042&P2=404&P3=2&P4=GXwh14j2DfLBfeYZqbZ8yNaWSPZuimQNtz%2fNtZDo1qePMbQpJYuCC7fDUAHkcwecZUwV1MPj8IorFUf4AXXDbg%3d%3d](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/077c14db-0119-4627-97aa-cdc1c657db41?P1=1671912042&P2=404&P3=2&P4=GXwh14j2DfLBfeYZqbZ8yNaWSPZuimQNtz%2fNtZDo1qePMbQpJYuCC7fDUAHkcwecZUwV1MPj8IorFUf4AXXDbg%3d%3d)  
 
