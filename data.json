@@ -1,19 +1,19 @@
 {
     "msedge-stable-win-x86": {
-        "version": "110.0.1587.49",
-        "size": 129144280,
-        "sha1": "cdc3af886046af4fca5579a40b9d9f24c109c63b",
-        "sha256": "4b1c28f53c07314468afa7ae23f7526a2f00e17b154a204396bfedd809e187f1",
-        "file": "MicrosoftEdge_X86_110.0.1587.49.exe",
-        "url": "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/40e26a3c-cf56-41a5-b5d5-2dc89b1d63b3?P1=1677355232&P2=404&P3=2&P4=d4Tz8bUOtekjdkr8CeZoM4kFFxS2h8oQ4LNV9X0I9uvV%2b%2bqfjT0SOYQ0ehzaBgPlQTti5R3FZaxz2ApdMkGyNg%3d%3d"
+        "version": "110.0.1587.50",
+        "size": 129156568,
+        "sha1": "a61186a4e7b689d7e9564f67e167059b89994a96",
+        "sha256": "806d37d38d7b68cf63b28a9beed00b5aa250423f0ed2a495f96f3cffc75b6e94",
+        "file": "MicrosoftEdge_X86_110.0.1587.50.exe",
+        "url": "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff3f7016-0d1d-4ab9-8264-41f678a61214?P1=1677441639&P2=404&P3=2&P4=EVY7fDiiEX%2blD2vcLgrZvlpVY6958b9b4YOuwNLrPG%2bnw2%2fZV7DbLBBscHS57bM5bkcbNmh7Vg7Wp%2btMNJe7BA%3d%3d"
     },
     "msedge-stable-win-x64": {
-        "version": "110.0.1587.49",
-        "size": 142287320,
-        "sha1": "2b874def26112f6fb28d7c2e72455f26b648228b",
-        "sha256": "4384a55ad1e56b28520cc382a8c50ed854e864a967ae780539dedf6cb264c5bf",
-        "file": "MicrosoftEdge_X64_110.0.1587.49.exe",
-        "url": "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09854dbd-b16a-4f57-a0b5-d0c7f4eb0b45?P1=1677355233&P2=404&P3=2&P4=bBg8Za3JtnVhwb9wKw%2fEoHZdvazCHP8NNs%2fjpHKhbQDGrQUJiJzKUVRh5zY%2fzpT9oe5ZVWxEo%2b9DZeyLMLC28w%3d%3d"
+        "version": "110.0.1587.50",
+        "size": 142235096,
+        "sha1": "630a523a9bd2742e12993e4c65c8cc0b46a5ad0e",
+        "sha256": "b6fbbe814cfb57d623561807a455c1d49b78bb526538ff845225a7691d357159",
+        "file": "MicrosoftEdge_X64_110.0.1587.50.exe",
+        "url": "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86153d8d-fc07-4f2e-acdf-05ee9a139617?P1=1677441640&P2=404&P3=2&P4=KCWxN57cljeZejUZWx%2bKORU2p%2bsvyjXSbc3hfJewk20BfH4AbXZnAj9ZxzPZ9OV2MbBjdvmdwggIrTgIfTtleA%3d%3d"
     },
     "msedge-beta-win-x86": {
         "version": "111.0.1661.15",
